@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-61-physical-chemistry-fall-2017/f3366d8aaa0e6d308e13802fec808362_MIT5_61F17_lec1.pdf
+file: /media/courses/5-61-physical-chemistry-fall-2017/f3366d8aaa0e6d308e13802fec808362_MIT5_61F17_lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '5.61 F17 Lecture 1: Quantum Mechanics--Historical Background, Photoelectric
   Effect, Compton Scattering'

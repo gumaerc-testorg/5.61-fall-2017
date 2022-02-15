@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-61-physical-chemistry-fall-2017/09cf1ac3bddb7068b1051a7cf2ac0a20_Z0ALwCckM24.pdf
+file: /media/courses/5-61-physical-chemistry-fall-2017/09cf1ac3bddb7068b1051a7cf2ac0a20_Z0ALwCckM24.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 09cf1ac3-bddb-7068-b105-1a7cf2ac0a20

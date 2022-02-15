@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 84a4b1cc-10b0-e743-a24f-06e70616d942
 ---
@@ -144,7 +147,7 @@ Lecture Notes
 13–14
 {{< tdclose >}}
 {{< tdopen >}}
-[From Hij Integrals to H Matrices (PDF)]({{< baseurl >}}/resources/mit5_61f17_lec13_lec14)
+[From H{{< sub "ij" >}} Integrals to H Matrices (PDF)]({{< baseurl >}}/resources/mit5_61f17_lec13_lec14)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +167,7 @@ Lecture Notes
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Non-Degenerate Perturbation Theory II: Harmonic Oscillators Using a,a† (PDF)]({{< baseurl >}}/resources/mit5_61f17_lec16)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Non-Degenerate Perturbation Theory II: Harmonic Oscillators Using a,a{{< sup "†" >}} (PDF)]({{< baseurl >}}/resources/mit5_61f17_lec16)
 
 ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 16 Supplement: Non-Degenerate Perturbation Theory III (PDF)]({{< baseurl >}}/resources/mit5_61f17_lec16_supp)
 

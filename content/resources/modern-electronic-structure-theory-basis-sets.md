@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 28: Modern Electronic Structure Theory: Basis Sets'
 uid: 8f53f5d3-56a6-cd08-6f71-eb70fb9a3fa6
 video_files:
   archive_url: https://archive.org/download/MIT5.61F17/MIT5_61F17_Lecture_28_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-61-physical-chemistry-fall-2017/1426cdbd64a750088f6055779119455f_BOryXuUMjI0.vtt
+  video_captions_file: /courses/5-61-physical-chemistry-fall-2017/1426cdbd64a750088f6055779119455f_BOryXuUMjI0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/BOryXuUMjI0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-61-physical-chemistry-fall-2017/1d6c7f9004287ee7f1b49b50010a8a5a_BOryXuUMjI0.pdf
+  video_transcript_file: /courses/5-61-physical-chemistry-fall-2017/1d6c7f9004287ee7f1b49b50010a8a5a_BOryXuUMjI0.pdf
 video_metadata:
   youtube_id: BOryXuUMjI0
 ---
