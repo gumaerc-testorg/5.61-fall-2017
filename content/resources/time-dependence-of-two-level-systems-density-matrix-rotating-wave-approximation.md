@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 36: Time Dependence of Two-Level Systems: Density Matrix, Rotating
   Wave Approximation'
 uid: 281224fe-05b1-1d6e-3768-a277c6cb4b24

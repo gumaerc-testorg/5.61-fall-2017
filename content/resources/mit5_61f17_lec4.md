@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 84a4b1cc-10b0-e743-a24f-06e70616d942
 resourcetype: Document
 title: '5.61 F17: Lecture 4: The Classical Wave Equation and Separation of Variables'
 uid: df37268e-2d93-cfdd-441a-fdedc1c465e3

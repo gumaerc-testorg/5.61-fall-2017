@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 30: Time-Dependent Perturbation Theory I. H is Time-Independent, Zewail
   Wavepacket'
 uid: ac709c31-b3bb-8de0-6595-6c79b5646a3e

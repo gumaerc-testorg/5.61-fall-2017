@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 84a4b1cc-10b0-e743-a24f-06e70616d942
 resourcetype: Document
 title: '5.61 F17 Lecture 6:  3-D Box and Separation of Variables'
 uid: 21337f4e-c50e-a15b-d735-b1c0937e3100

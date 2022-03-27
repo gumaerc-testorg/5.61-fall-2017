@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 32: Intermolecular Interactions by Non-Degenerate Perturbation Theory'
 uid: 4c1f384b-a464-8cd9-b5c0-abf943e9c6e4
 video_files:

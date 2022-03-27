@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 16: Non-Degenerate Perturbation Theory II: HO using a,a\u2020"
 uid: 895f0c4a-ea9d-9f3f-b8dd-033b518ab040
 video_files:

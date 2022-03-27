@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 29: Modern Electronic Structure Theory: Electronic Correlation'
 uid: 8b65c6af-5fdb-8e02-a104-71898b763ed5
 video_files:

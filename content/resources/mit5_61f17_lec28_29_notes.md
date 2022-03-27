@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 84a4b1cc-10b0-e743-a24f-06e70616d942
 resourcetype: Document
 title: '5.61 F17 Lecture 28 and 29: Modern Electronic Stucture Guided Notes'
 uid: 0d07e780-a9ba-9181-bb94-9c7618d3c99e

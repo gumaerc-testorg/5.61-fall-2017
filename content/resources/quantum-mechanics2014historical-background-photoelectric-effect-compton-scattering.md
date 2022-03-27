@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 1: Quantum Mechanics\u2014Historical Background, Photoelectric Effect,\
   \ Compton Scattering"
 uid: 37e2531c-2ef7-d9d4-0a1b-c1fb8c12cba8

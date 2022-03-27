@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 28: Modern Electronic Structure Theory: Basis Sets'
 uid: 8f53f5d3-56a6-cd08-6f71-eb70fb9a3fa6
 video_files:

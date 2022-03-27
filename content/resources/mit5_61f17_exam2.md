@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c7de4bd3-4f6f-ca30-2e24-7563544099e7
 resourcetype: Document
 title: 5.61 F17 Second Hour Exam
 uid: de784d32-b097-4c07-62e5-73c238022de7
