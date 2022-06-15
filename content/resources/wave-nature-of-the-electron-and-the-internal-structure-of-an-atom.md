@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description**: This lecture covers the wave nature of the electron and the internal structure of an atom.
 
 **Instructor**: Prof. Robert Field
+
+
+

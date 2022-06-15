@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this final lecture, Prof. Field explains time dependence of two-level systems, with attention to density matrix and rotating wave approximation.
 
 **Instructor:** Prof. Robert Field
+
+
+

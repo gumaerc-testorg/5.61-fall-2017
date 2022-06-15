@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-61-physical-chemistry-fall-2017/56e62b4d0c527f4f669ec90a6788ae33_RGskPrZopRE.srt
+file: /courses/5-61-physical-chemistry-fall-2017/56e62b4d0c527f4f669ec90a6788ae33_RGskPrZopRE.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

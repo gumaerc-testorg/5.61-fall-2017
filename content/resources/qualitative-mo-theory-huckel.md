@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture explains the Hückel molecular orbital theory, which determines the energies of molecular orbitals of electrons.
 
 **Instructor:** Prof. Robert Field
+
+
+

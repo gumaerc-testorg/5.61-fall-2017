@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers the classical mechanic treatment of the harmonic oscillator, the traditional quantum mechanic treatment, and time-dependent quantum mechanics.
 
 **Instructor:** Prof. Robert Field
+
+
+

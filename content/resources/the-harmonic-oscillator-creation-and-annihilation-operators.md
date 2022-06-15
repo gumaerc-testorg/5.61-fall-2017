@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture continues the discussion of harmonic oscillators and includes information on creation and annihilation operators.
 
 **Instructor:** Prof. Robert Field
+
+
+

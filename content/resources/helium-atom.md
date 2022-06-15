@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** After discussing the hydrogen atom in the previous lecture, Prof. Field explores the next simplest system: the helium atom.
 
 **Instructor:** Prof. Robert Field
+
+
+

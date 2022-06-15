@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains a list of readings for the course. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -372,7 +373,7 @@ Molecular Orbital Theory I. Variational Principle and Matrix Mechanics
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular Orbital Theory II. H{{< sub "2" >}}{{< sup "+" >}}, A{{< sub "2" >}}, AB Diatomics
+Molecular Orbital Theory II. H{{< sub "2" >}}{{< sup "\+" >}}, A{{< sub "2" >}}, AB Diatomics
 {{< tdclose >}}
 {{< tdopen >}}
 ﻿﻿\[McQuarrie\]   Chapter 11.1–11.5

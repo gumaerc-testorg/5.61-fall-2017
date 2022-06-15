@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-61-physical-chemistry-fall-2017/e0cc7ccb868b496a2abdb74841125474_BEs4K6LSGzo.pdf
+file: /courses/5-61-physical-chemistry-fall-2017/e0cc7ccb868b496a2abdb74841125474_BEs4K6LSGzo.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
