@@ -5,6 +5,7 @@ file: /courses/5-61-physical-chemistry-fall-2017/422437d3f17dea14587e4a8c6ba9a89
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

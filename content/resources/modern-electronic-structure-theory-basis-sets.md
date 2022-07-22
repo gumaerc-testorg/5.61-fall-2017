@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Guest lecturer, Prof. Troy Van Voorhis, explores electronic structure theory. This discussion includes the topic of basis sets, which are a pre-defined set of AO basis functions for each atom in the periodic table.
 
 **Instructor:** Prof. Troy Van Voorhis
-
-
 

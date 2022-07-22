@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-61-physical-chemistry-fall-2017/1f9b2aade5e4c45e2c9f7da3b50c6fe1_4bfrkd8_zPo.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

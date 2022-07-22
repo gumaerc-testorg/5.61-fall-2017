@@ -5,6 +5,7 @@ file: /courses/5-61-physical-chemistry-fall-2017/2b60d8c864a7cca9ec1ed53932fc1c3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

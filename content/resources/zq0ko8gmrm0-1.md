@@ -4,6 +4,7 @@ description: ''
 file: /courses/5-61-physical-chemistry-fall-2017/3f65d39ea933d8ade7ec3ec9375b4f08_zq0KO8Gmrm0.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

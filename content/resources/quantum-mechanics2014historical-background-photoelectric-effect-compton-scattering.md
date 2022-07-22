@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Field explains the structure of the course, historical background, and the photoelectric effect.
 
 **Instructor:** Prof. Robert Field
-
-
 
