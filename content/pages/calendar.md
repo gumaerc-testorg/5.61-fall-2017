@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: 'This section contains a list of topics and key dates. '
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 4b5dc136-ab7e-a798-000a-901eb416c929
 ---
-
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
@@ -181,7 +184,7 @@ Exam #1
 13
 {{< tdclose >}}
 {{< tdopen >}}
-From Hij Integrals to **H** Matrices I
+From H{{< sub "ij" >}} Integrals to **H** Matrices I
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -193,7 +196,7 @@ From Hij Integrals to **H** Matrices I
 14
 {{< tdclose >}}
 {{< tdopen >}}
-From Hij Integrals to **H** Matrices II
+From H{{< sub "ij" >}} Integrals to **H** Matrices II
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 4 due
@@ -217,7 +220,7 @@ Non-Degenerate Perturbation Theory I
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Non-Degenerate Perturbation Theory II: HO using **a**,**a****†**
+Non-Degenerate Perturbation Theory II: HO using **a**,**a**{{< sup "**†**" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -337,7 +340,7 @@ Molecular Orbital Theory I. Variational Principle and Matrix Mechanics
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular Orbital Theory II. H2+, A2, AB Diatomics
+Molecular Orbital Theory II. H{{< sub "2" >}}{{< sup "\+" >}}, A{{< sub "2" >}}, AB Diatomics
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 7 due

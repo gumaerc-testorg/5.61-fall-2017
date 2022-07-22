@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains a list of readings for the course. '
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 596c61b6-5542-ba30-13d5-e84c6b9540b1
 ---
@@ -195,7 +199,7 @@ Exam #1
 13
 {{< tdclose >}}
 {{< tdopen >}}
-From Hij Integrals to **H** Matrices I
+From H{{< sub "ij" >}} Integrals to **H** Matrices I
 {{< tdclose >}}
 {{< tdopen >}}
 \[Field\] Chapter 6.1–6.4
@@ -207,7 +211,7 @@ From Hij Integrals to **H** Matrices I
 14
 {{< tdclose >}}
 {{< tdopen >}}
-From Hij Integrals to **H** Matrices II
+From H{{< sub "ij" >}} Integrals to **H** Matrices II
 {{< tdclose >}}
 {{< tdopen >}}
 ﻿\[McQuarrie\] Chapters 4, F, G, H  
@@ -231,7 +235,7 @@ No readings
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Non-Degenerate Perturbation Theory II: HO using **a**,**a****†**
+Non-Degenerate Perturbation Theory II: HO using **a**,**a**{{< sup "**†**" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ﻿\[McQuarrie\]﻿ Chapter 6
@@ -369,7 +373,7 @@ Molecular Orbital Theory I. Variational Principle and Matrix Mechanics
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular Orbital Theory II. H2+, A2, AB Diatomics
+Molecular Orbital Theory II. H{{< sub "2" >}}{{< sup "\+" >}}, A{{< sub "2" >}}, AB Diatomics
 {{< tdclose >}}
 {{< tdopen >}}
 ﻿﻿\[McQuarrie\]   Chapter 11.1–11.5
