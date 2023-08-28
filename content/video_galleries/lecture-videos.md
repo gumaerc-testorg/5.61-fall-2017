@@ -1,6 +1,7 @@
 ---
 content_type: video_gallery
 description: 'This section contains the full video lectures of the course. '
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -47,7 +48,4 @@ videos:
   - 281224fe-05b1-1d6e-3768-a277c6cb4b24
   website: 5-61-physical-chemistry-fall-2017
 ---
-
-
 {{< video-gallery "bcdc517f-df2b-c2d6-276b-ad5ba6f0953b" >}}
-
