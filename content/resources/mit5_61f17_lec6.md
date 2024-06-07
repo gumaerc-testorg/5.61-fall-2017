@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-61-physical-chemistry-fall-2017/21337f4ec50ea15bd735b1c0937e3100_MIT5_61F17_lec6.pdf
+file_size: 734868
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
