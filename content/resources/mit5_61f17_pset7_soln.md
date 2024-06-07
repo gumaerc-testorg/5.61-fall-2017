@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-61-physical-chemistry-fall-2017/44813fcb0f6064ca100dc5193e7059b5_MIT5_61F17_pset7_soln.pdf
+file_size: 502423
 file_type: application/pdf
 learning_resource_types:
 - Assignments

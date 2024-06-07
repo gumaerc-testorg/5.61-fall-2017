@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-61-physical-chemistry-fall-2017/e0cc7ccb868b496a2abdb74841125474_BEs4K6LSGzo.pdf
+file_size: 46210
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
