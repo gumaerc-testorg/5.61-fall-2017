@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/5-61-physical-chemistry-fall-2017/2b60d8c864a7cca9ec1ed53932fc1c3d_MIT5_61F17_pset7.pdf
+file: /courses/5-61-physical-chemistry-fall-2017/2b60d8c864a7cca9ec1ed53932fc1c3d_MIT5_61F17_pset7.pdf
 file_size: 200397
 file_type: application/pdf
 learning_resource_types:
